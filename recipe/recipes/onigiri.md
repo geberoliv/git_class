@@ -1,9 +1,9 @@
-#Onigiri
+# Onigiri
 
 ![onigiri](http://www.foodista.com/sites/default/files/styles/recype/public/angry_birds_onigiri.jpg)
 
 
-##Ingredients
+## Ingredients
 
 (Red Bird)
 
@@ -20,7 +20,7 @@ Ingredients:
 - 1 sheet of Cling wrap
 - Mayonnaise& Wasabi for serving (optional)
 
-##Preparation
+## Preparation
 1. Mash hard-boiled egg & set aside. Blanch crabmeat in boiling water & drain. Dice it & mix with egg, mayo & pepper.
 2. Mix Ketchup into 2 tbsp of rice. Using fingers, spread some salt water onto cling wrap. Put 2 tbsp of rice onto palm & top with crabmeat mixture.
 3. Make into a ball. Add 1 tbsp of white rice to make the bottom of the Red Bird. Press well to combine the two.
