@@ -1,7 +1,7 @@
 # A delicious recipe
 ## Made by a GIT user
 
-Gut Healthy Tangy Feta Chicken with Kale Wraps**
+**Gut Healthy Tangy Feta Chicken with Kale Wraps**
 
 ![feta_chicken](http://cf.foodista.com/content/fp/wkhi8tep7zso5d6b.jpg)
 
